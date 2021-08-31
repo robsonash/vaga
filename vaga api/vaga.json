@@ -1,0 +1,397 @@
+{
+    "tudo": [{
+
+
+            "id": 1,
+            "title": "profissionais",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "maleta.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "profissionais",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "maleta.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "profissionais",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "maleta.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 4,
+            "title": "reguladores",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pilar.svg",
+            "valor": "100.00"
+
+        },
+        {
+            "id": 5,
+            "title": "reguladores",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pilar.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 6,
+            "title": "reguladores",
+            "texto": "O aplreguladoresicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pilar.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 7,
+            "title": "Sócio Ambiental",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "arvore.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 8,
+            "title": "Sócio Ambiental",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "arvore.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 9,
+            "title": "Sócio Ambiental",
+            "texto": "O aplreguladoresicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "arvore.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 10,
+            "title": "Juridico",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "martelo.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 11,
+            "title": "Juridico",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "martelo.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 12,
+            "title": "Juridico",
+            "texto": "O aplreguladoresicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "martelo.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 13,
+            "title": "Listras Restritivas",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "proibido.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 14,
+            "title": "Listras Restritivas",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "proibido.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 15,
+            "title": "Listras Restritivas",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "proibido.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 16,
+            "title": "Midia Internet",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "planeta.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 17,
+            "title": "Midia Internet",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "planeta.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 18,
+            "title": "Midia Internet",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "planeta.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 19,
+            "title": "Bens e Imoveis",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 20,
+            "title": "Bens e Imoveis",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 21,
+            "title": "Bens e Imoveis",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 22,
+            "title": "Cadastro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pessoa.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 23,
+            "title": "Cadastro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pessoa.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 24,
+            "title": "Cadastro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pessoa.svg",
+            "valor": "300.00"
+        },
+        {
+            "id": 25,
+            "title": "Financeiro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 26,
+            "title": "Financeiro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 27,
+            "title": "Financeiro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "300.00"
+        }
+
+    ],
+
+    "profissionais": [{
+            "id": 1,
+            "title": "profissionais",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "maleta.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "profissionais",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "maleta.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "profissionais",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "maleta.svg",
+            "valor": "300.00"
+        }
+    ],
+    "reguladores": [{
+            "id": 1,
+            "title": "reguladores",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pilar.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "reguladores",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pilar.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "reguladores",
+            "texto": "O aplreguladoresicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pilar.svg",
+            "valor": "300.00"
+        }
+    ],
+
+    "socio-ambiental": [{
+            "id": 1,
+            "title": "Sócio Ambiental",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "arvore.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "Sócio Ambiental",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "arvore.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "Sócio Ambiental",
+            "texto": "O aplreguladoresicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "arvore.svg",
+            "valor": "300.00"
+        }
+    ],
+    "juridico": [{
+            "id": 1,
+            "title": "Juridico",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "martelo.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "Juridico",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "martelo.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "Juridico",
+            "texto": "O aplreguladoresicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "martelo.svg",
+            "valor": "300.00"
+        }
+    ],
+    "listras-restritivas": [{
+            "id": 1,
+            "title": "Listras Restritivas",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "proibido.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "Listras Restritivas",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "proibido.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "Listras Restritivas",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "proibido.svg",
+            "valor": "300.00"
+        }
+    ],
+    "midia-internet": [{
+            "id": 1,
+            "title": "Midia Internet",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "planeta.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "Midia Internet",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "planeta.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "Midia Internet",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "planeta.svg",
+            "valor": "300.00"
+        }
+    ],
+    "bens-e-imoveis": [{
+            "id": 1,
+            "title": "Bens e Imoveis",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "diamante.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "Bens e Imoveis",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "diamante.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "Bens e Imoveis",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "diamante.svg",
+            "valor": "300.00"
+        }
+    ],
+    "cadastro": [{
+            "id": 1,
+            "title": "Cadastro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pessoa.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "Cadastro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pessoa.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "Cadastro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "pessoa.svg",
+            "valor": "300.00"
+        }
+    ],
+    "financeiro": [{
+            "id": 1,
+            "title": "Financeiro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "100.00"
+        },
+        {
+            "id": 2,
+            "title": "Financeiro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "200.00"
+        },
+        {
+            "id": 3,
+            "title": "Financeiro",
+            "texto": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A.,  de caítal aberto e limitadas (LTDA) de grande porte.",
+            "icone": "cofre.svg",
+            "valor": "300.00"
+        }
+    ]
+
+}
